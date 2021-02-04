@@ -8,6 +8,7 @@ Vue.use(Vuex);
 
 const state = {
 	message: 'Initial State Message',
+	messages: [],
 };
 
 const store = new Vuex.Store({
