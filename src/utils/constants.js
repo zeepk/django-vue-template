@@ -5,4 +5,4 @@ export const messagesUrl = `${baseApiUrl}messages/`;
 
 // verbiage
 
-export const title = 'Sample';
+export const title = 'Sample App';
